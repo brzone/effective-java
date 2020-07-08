@@ -6,6 +6,7 @@ import java.util.stream.Stream;
  * 
  * @author brzone
  *
+ * @date 2020年7月9日上午12:02:18
  */
 public enum Operation {
 
